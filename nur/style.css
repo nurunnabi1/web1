@@ -1,0 +1,37 @@
+.sec{
+    display: flex;
+}
+.mar{
+    padding: 10px;
+}
+.but{
+    background-image: linear-gradient(blue, yellow);
+}
+#image img{
+    border: 2px solid red;
+    height: 420px;
+    width: 360px;
+    margin: 20px;
+}
+
+p{
+    color: goldenrod;
+    text-align: justify;
+    background-color: rgb(0, 0, 0);
+    border-radius: 23px;
+}
+input{
+    margin-top: 30px;
+}
+
+button{
+    margin: 12px;
+    padding: 12px;
+    border-radius: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}

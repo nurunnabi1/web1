@@ -1,0 +1,32 @@
+.part{
+    display:flex;
+    /* border: 1px solid blue;
+    border-radius: 1px; */
+}
+.ar{
+ 
+    padding: 30px;
+    margin: 50px;
+}
+
+.image img{
+    height: 240px;
+    width: 240px;
+
+    
+}
+#sub{
+    text-decoration: none;
+    color: black;
+    
+}
+
+#bu{
+    background-image: linear-gradient(blue,rgb(255, 0, 0));
+
+}
+.image{
+    /* border: 2px solid aqua; */
+    padding: 30px;
+    margin: 50px;
+}
